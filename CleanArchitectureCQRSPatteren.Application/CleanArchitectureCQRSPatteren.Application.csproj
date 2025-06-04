@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CQRS_FULL\CleanArchitectureCQRSPatteren.Domain\CleanArchitectureCQRSPatteren.Domain.csproj" />
+    <ProjectReference Include="..\CleanArchitectureCQRSPatteren.Domain\CleanArchitectureCQRSPatteren.Domain.csproj" />
   </ItemGroup>
 
 </Project>

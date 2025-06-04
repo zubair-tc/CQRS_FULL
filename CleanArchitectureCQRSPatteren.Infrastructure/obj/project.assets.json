@@ -4796,7 +4796,6 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "CleanArchitectureCQRSPatteren.Domain >= 1.0.0",
-      "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CQRS_FULL\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj",
       "Microsoft.EntityFrameworkCore >= 9.0.4",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.4",
@@ -4838,9 +4837,6 @@
           "projectReferences": {
             "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj": {
               "projectPath": "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj"
-            },
-            "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CQRS_FULL\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj": {
-              "projectPath": "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CQRS_FULL\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj"
             }
           }
         }
@@ -4905,16 +4901,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CQRS_FULL\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CQRS_FULL\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  }
 }

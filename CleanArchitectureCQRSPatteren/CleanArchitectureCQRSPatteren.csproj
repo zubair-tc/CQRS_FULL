@@ -20,14 +20,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CQRS_FULL\CleanArchitectureCQRSPatteren.Application\CleanArchitectureCQRSPatteren.Application.csproj" />
-    <ProjectReference Include="..\CQRS_FULL\CleanArchitectureCQRSPatteren.Infrastructure\CleanArchitectureCQRSPatteren.Infrastructure.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Reference Include="CleanArchitectureCQRSPatteren.Domain">
-      <HintPath>..\CQRS_FULL\CleanArchitectureCQRSPatteren.Domain\obj\Debug\net8.0\ref\CleanArchitectureCQRSPatteren.Domain.dll</HintPath>
-    </Reference>
+    <ProjectReference Include="..\CleanArchitectureCQRSPatteren.Application\CleanArchitectureCQRSPatteren.Application.csproj" />
+    <ProjectReference Include="..\CleanArchitectureCQRSPatteren.Infrastructure\CleanArchitectureCQRSPatteren.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

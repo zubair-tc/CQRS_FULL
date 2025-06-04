@@ -105,9 +105,6 @@
             "projectReferences": {
               "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj": {
                 "projectPath": "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj"
-              },
-              "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CQRS_FULL\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj": {
-                "projectPath": "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CQRS_FULL\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj"
               }
             }
           }

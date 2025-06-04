@@ -1,0 +1,15 @@
+G:\Zubair Data\InternShip Data\CleanArchitectureCQRSPatteren.Application\bin\Debug\net8.0\CleanArchitectureCQRSPatteren.Application.deps.json
+G:\Zubair Data\InternShip Data\CleanArchitectureCQRSPatteren.Application\bin\Debug\net8.0\CleanArchitectureCQRSPatteren.Application.dll
+G:\Zubair Data\InternShip Data\CleanArchitectureCQRSPatteren.Application\bin\Debug\net8.0\CleanArchitectureCQRSPatteren.Application.pdb
+G:\Zubair Data\InternShip Data\CleanArchitectureCQRSPatteren.Application\bin\Debug\net8.0\CleanArchitectureCQRSPatteren.Domain.dll
+G:\Zubair Data\InternShip Data\CleanArchitectureCQRSPatteren.Application\bin\Debug\net8.0\CleanArchitectureCQRSPatteren.Domain.pdb
+G:\Zubair Data\InternShip Data\CleanArchitectureCQRSPatteren.Application\obj\Debug\net8.0\CleanArchitectureCQRSPatteren.Application.csproj.AssemblyReference.cache
+G:\Zubair Data\InternShip Data\CleanArchitectureCQRSPatteren.Application\obj\Debug\net8.0\CleanArchitectureCQRSPatteren.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\Zubair Data\InternShip Data\CleanArchitectureCQRSPatteren.Application\obj\Debug\net8.0\CleanArchitectureCQRSPatteren.Application.AssemblyInfoInputs.cache
+G:\Zubair Data\InternShip Data\CleanArchitectureCQRSPatteren.Application\obj\Debug\net8.0\CleanArchitectureCQRSPatteren.Application.AssemblyInfo.cs
+G:\Zubair Data\InternShip Data\CleanArchitectureCQRSPatteren.Application\obj\Debug\net8.0\CleanArchitectureCQRSPatteren.Application.csproj.CoreCompileInputs.cache
+G:\Zubair Data\InternShip Data\CleanArchitectureCQRSPatteren.Application\obj\Debug\net8.0\CleanArc.1630FB3D.Up2Date
+G:\Zubair Data\InternShip Data\CleanArchitectureCQRSPatteren.Application\obj\Debug\net8.0\CleanArchitectureCQRSPatteren.Application.dll
+G:\Zubair Data\InternShip Data\CleanArchitectureCQRSPatteren.Application\obj\Debug\net8.0\refint\CleanArchitectureCQRSPatteren.Application.dll
+G:\Zubair Data\InternShip Data\CleanArchitectureCQRSPatteren.Application\obj\Debug\net8.0\CleanArchitectureCQRSPatteren.Application.pdb
+G:\Zubair Data\InternShip Data\CleanArchitectureCQRSPatteren.Application\obj\Debug\net8.0\ref\CleanArchitectureCQRSPatteren.Application.dll

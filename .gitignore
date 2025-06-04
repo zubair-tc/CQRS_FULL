@@ -1,0 +1,38 @@
+# Build and Release folders
+bin/
+obj/
+
+# Rider / VSCode / Visual Studio folders
+.vs/
+.idea/
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# DotNet CLI related
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NPM & Node (if you have JS code)
+node_modules/
+
+# Logs
+*.log
+
+# OS generated
+Thumbs.db
+.DS_Store
+
+# Environment files
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.bak
+*.cache

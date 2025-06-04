@@ -1,16 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\Zubair Data\\InternShip Data\\CleanArchitectureCQRSPatteren\\",
+  "WorkspaceRootPath": "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CleanArchitectureCQRSPatteren\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C32CBF7-0837-2785-B249-4E48B8969BA8}|..\\uNIT_cqRS\\uNIT_cqRS.csproj|g:\\zubair data\\internship data\\unit_cqrs\\blogcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28D87C77-99D1-EA53-2E46-7FE9DD085564}|..\\CleanArchitectureCQRSPatteren.Application\\CleanArchitectureCQRSPatteren.Application.csproj|g:\\zubair data\\internship data\\cqrs_full\\cleanarchitecturecqrspatteren.application\\blogs\\commands\\createblog\\createblogcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8F291BF-DAE8-45E8-83C9-258D57AA0C8D}|CleanArchitectureCQRSPatteren.csproj|g:\\zubair data\\internship data\\cleanarchitecturecqrspatteren\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C32CBF7-0837-2785-B249-4E48B8969BA8}|..\\uNIT_cqRS\\uNIT_cqRS.csproj|g:\\zubair data\\internship data\\cqrs_full\\unit_cqrs\\blogcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Zubair Data\\InternShip Data\\uNIT_cqRS\\BlogControllerTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F291BF-DAE8-45E8-83C9-258D57AA0C8D}|CleanArchitectureCQRSPatteren.csproj|g:\\zubair data\\internship data\\cqrs_full\\cleanarchitecturecqrspatteren\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8F291BF-DAE8-45E8-83C9-258D57AA0C8D}|CleanArchitectureCQRSPatteren.csproj|solutionrelative:controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8F291BF-DAE8-45E8-83C9-258D57AA0C8D}|CleanArchitectureCQRSPatteren.csproj|g:\\zubair data\\internship data\\cleanarchitecturecqrspatteren\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8F291BF-DAE8-45E8-83C9-258D57AA0C8D}|CleanArchitectureCQRSPatteren.csproj|g:\\zubair data\\internship data\\cqrs_full\\cleanarchitecturecqrspatteren\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8F291BF-DAE8-45E8-83C9-258D57AA0C8D}|CleanArchitectureCQRSPatteren.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -21,11 +27,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 364,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateBlogCommand.cs",
+              "DocumentMoniker": "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CleanArchitectureCQRSPatteren.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommand.cs",
+              "RelativeDocumentMoniker": "..\\CleanArchitectureCQRSPatteren.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommand.cs",
+              "ToolTip": "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CleanArchitectureCQRSPatteren.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommand.cs",
+              "RelativeToolTip": "..\\CleanArchitectureCQRSPatteren.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:42:25.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogControllerTest.cs",
+              "DocumentMoniker": "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\uNIT_cqRS\\BlogControllerTest.cs",
+              "RelativeDocumentMoniker": "..\\uNIT_cqRS\\BlogControllerTest.cs",
+              "ToolTip": "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\uNIT_cqRS\\BlogControllerTest.cs",
+              "RelativeToolTip": "..\\uNIT_cqRS\\BlogControllerTest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAHsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:40:20.755Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -33,28 +61,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "BlogControllerTest.cs",
               "DocumentMoniker": "G:\\Zubair Data\\InternShip Data\\uNIT_cqRS\\BlogControllerTest.cs",
-              "RelativeDocumentMoniker": "..\\uNIT_cqRS\\BlogControllerTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\uNIT_cqRS\\BlogControllerTest.cs",
               "ToolTip": "G:\\Zubair Data\\InternShip Data\\uNIT_cqRS\\BlogControllerTest.cs",
-              "RelativeToolTip": "..\\uNIT_cqRS\\BlogControllerTest.cs",
+              "RelativeToolTip": "..\\..\\uNIT_cqRS\\BlogControllerTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T06:40:31.096Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "G:\\Zubair Data\\InternShip Data\\CleanArchitectureCQRSPatteren\\Program.cs",
+              "DocumentMoniker": "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CleanArchitectureCQRSPatteren\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "G:\\Zubair Data\\InternShip Data\\CleanArchitectureCQRSPatteren\\Program.cs",
+              "ToolTip": "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CleanArchitectureCQRSPatteren\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -62,16 +86,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BlogController.cs",
-              "DocumentMoniker": "G:\\Zubair Data\\InternShip Data\\CleanArchitectureCQRSPatteren\\Controllers\\BlogController.cs",
+              "DocumentMoniker": "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CleanArchitectureCQRSPatteren\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "Controllers\\BlogController.cs",
-              "ToolTip": "G:\\Zubair Data\\InternShip Data\\CleanArchitectureCQRSPatteren\\Controllers\\BlogController.cs",
+              "ToolTip": "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CleanArchitectureCQRSPatteren\\Controllers\\BlogController.cs",
               "RelativeToolTip": "Controllers\\BlogController.cs",
               "ViewState": "AgIAAAEAAABAZmZmZqYowAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T11:12:21.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T11:12:21.731Z"
             }
           ]
         },

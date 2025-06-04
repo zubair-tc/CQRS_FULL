@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9AEgakcapyM=",
+  "dgSpecHash": "VLo56B8dxMI=",
   "success": true,
-  "projectFilePath": "G:\\Zubair Data\\InternShip Data\\CQRS_FULL\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj",
+  "projectFilePath": "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\haier\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
     "C:\\Users\\haier\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

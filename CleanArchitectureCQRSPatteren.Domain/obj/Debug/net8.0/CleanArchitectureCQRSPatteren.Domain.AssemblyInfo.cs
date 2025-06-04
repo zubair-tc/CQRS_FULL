@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanArchitectureCQRSPatteren.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d36112eb8434e8422f21cbd17036022758306bf9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b43a4f3c8b5371bee386fde66cb33121e91126a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanArchitectureCQRSPatteren.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanArchitectureCQRSPatteren.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

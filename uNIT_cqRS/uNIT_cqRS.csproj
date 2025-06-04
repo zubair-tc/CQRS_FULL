@@ -24,6 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CleanArchitectureCQRSPatteren.Application\CleanArchitectureCQRSPatteren.Application.csproj" />
     <ProjectReference Include="..\CleanArchitectureCQRSPatteren\CleanArchitectureCQRSPatteren.csproj" />
   </ItemGroup>
 

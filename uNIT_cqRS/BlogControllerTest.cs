@@ -8,8 +8,6 @@ using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Moq;
 
-
-
 namespace CleanArchitectureCQRSPatteren.Tests.Controllers
 {
     public class BlogControllerTests

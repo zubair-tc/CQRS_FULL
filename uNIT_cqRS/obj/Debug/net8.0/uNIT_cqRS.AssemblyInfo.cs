@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("uNIT_cqRS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b43a4f3c8b5371bee386fde66cb33121e91126a")]
 [assembly: System.Reflection.AssemblyProductAttribute("uNIT_cqRS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("uNIT_cqRS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

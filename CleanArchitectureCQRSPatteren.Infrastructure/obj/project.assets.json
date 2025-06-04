@@ -4796,6 +4796,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "CleanArchitectureCQRSPatteren.Domain >= 1.0.0",
+      "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CQRS_FULL\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj",
       "Microsoft.EntityFrameworkCore >= 9.0.4",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.4",
@@ -4810,11 +4811,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Zubair Data\\InternShip Data\\CleanArchitectureCQRSPatteren.Infrastructure\\CleanArchitectureCQRSPatteren.Infrastructure.csproj",
+      "projectUniqueName": "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CleanArchitectureCQRSPatteren.Infrastructure\\CleanArchitectureCQRSPatteren.Infrastructure.csproj",
       "projectName": "CleanArchitectureCQRSPatteren.Infrastructure",
-      "projectPath": "G:\\Zubair Data\\InternShip Data\\CleanArchitectureCQRSPatteren.Infrastructure\\CleanArchitectureCQRSPatteren.Infrastructure.csproj",
+      "projectPath": "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CleanArchitectureCQRSPatteren.Infrastructure\\CleanArchitectureCQRSPatteren.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\haier\\.nuget\\packages\\",
-      "outputPath": "G:\\Zubair Data\\InternShip Data\\CleanArchitectureCQRSPatteren.Infrastructure\\obj\\",
+      "outputPath": "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CleanArchitectureCQRSPatteren.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4835,11 +4836,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "G:\\Zubair Data\\InternShip Data\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj": {
-              "projectPath": "G:\\Zubair Data\\InternShip Data\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj"
+            "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj": {
+              "projectPath": "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj"
             },
-            "G:\\Zubair Data\\InternShip Data\\CQRS_FULL\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj": {
-              "projectPath": "G:\\Zubair Data\\InternShip Data\\CQRS_FULL\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj"
+            "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CQRS_FULL\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj": {
+              "projectPath": "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CQRS_FULL\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj"
             }
           }
         }
@@ -4904,5 +4905,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CQRS_FULL\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CQRS_FULL\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

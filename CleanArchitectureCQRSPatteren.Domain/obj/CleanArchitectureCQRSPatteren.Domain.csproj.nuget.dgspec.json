@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Zubair Data\\InternShip Data\\CQRS_FULL\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj": {}
+    "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj": {}
   },
   "projects": {
-    "G:\\Zubair Data\\InternShip Data\\CQRS_FULL\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj": {
+    "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Zubair Data\\InternShip Data\\CQRS_FULL\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj",
+        "projectUniqueName": "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj",
         "projectName": "CleanArchitectureCQRSPatteren.Domain",
-        "projectPath": "G:\\Zubair Data\\InternShip Data\\CQRS_FULL\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj",
+        "projectPath": "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CleanArchitectureCQRSPatteren.Domain\\CleanArchitectureCQRSPatteren.Domain.csproj",
         "packagesPath": "C:\\Users\\haier\\.nuget\\packages\\",
-        "outputPath": "G:\\Zubair Data\\InternShip Data\\CQRS_FULL\\CleanArchitectureCQRSPatteren.Domain\\obj\\",
+        "outputPath": "G:\\Zubair Data\\InternShip Data\\CQRS_Full\\CleanArchitectureCQRSPatteren.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

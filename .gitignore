@@ -36,3 +36,6 @@ Thumbs.db
 *.tmp
 *.bak
 *.cache
+
+# Visual Studio temporary files
+.vs/
